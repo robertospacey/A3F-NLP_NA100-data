@@ -1,4 +1,4 @@
-This repository showcases all the data used adn produced in the Spacey Martín et al 2024 paper. 
+This repository provides replication materials for the analysis produced in the Spacey Martín et al 2024 paper. 
 
 The 'Manuscript_model_results' file includes all of the analysis data produced by the NLP model. 
 
