@@ -1,6 +1,6 @@
 This repository showcases all the data used adn produced in the Spacey Martín et al 2024 paper. 
 
-The 'XX' file includes all of the analysis data produced by the NLP model. 
+The 'Manuscript_model_results' file includes all of the analysis data produced by the NLP model. 
 
 The "source_data" folder contains the sustainability reports of Nature Action 100 companies used in the analysis for the manuscript A total of 98 reports were analysed. All reports have been included, except the following (given file size constraints):
 
